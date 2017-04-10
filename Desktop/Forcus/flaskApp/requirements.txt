@@ -1,0 +1,6 @@
+Flask == 0.12
+pymongo == 3.0.3
+uwsgi 
+gunicorn==19.6.0
+psycopg2==2.6.2
+whitenoise==3.2
